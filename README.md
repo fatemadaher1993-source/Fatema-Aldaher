@@ -1,5 +1,5 @@
 # Fatema-Aldaher
-# 👩‍💻 FATEMA ALDAHER | Performance & Data Reporting Specialist
+# 👩‍💻 FATEMA ALDAHER | Performance & Data Reporting Analyst (M&E/Humanitarian Projects)
 
 ## 🌟 About Me
 
