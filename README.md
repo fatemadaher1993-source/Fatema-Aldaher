@@ -40,7 +40,7 @@ I am currently **building and developing strong technical skills** in Data Analy
 > [ ]
 
 ### 3. Database Management & SQL Projects
-> [https://github.com/fatemadaher1993-source/SQL_Project ]
+> https://github.com/fatemadaher1993-source/SQL_Project 
 
 ---
 
@@ -48,7 +48,7 @@ I am currently **building and developing strong technical skills** in Data Analy
 
 | Platform | Details |
 | :--- | :--- |
-| 🌐 **LinkedIn** | https://www.linkedin.com/in/fatema-abd-aldaher-345850386/| 
+| 🌐 **LinkedIn** | https://www.linkedin.com/in/fatema-abd-aldaher-345850386
 | 📧 **Email** | fatemadaher1993@gmail.com  
 
 ---
