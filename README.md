@@ -37,7 +37,7 @@ I am currently **building and developing strong technical skills** in Data Analy
 > [ ]
 
 ### 2. Business Intelligence & Diversified Analytics (Power BI / Excel / Python)
->(https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard)
+>https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard)
 
 ### 3. Database Management & SQL Projects
 > https://github.com/fatemadaher1993-source/SQL_Project 
