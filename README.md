@@ -34,10 +34,10 @@ I am currently **building and developing strong technical skills** in Data Analy
 ## 📂 Pinned Portfolio Projects
 
 ### 1. MEAL & Humanitarian Focus (KPI Tracking)
-> [ ]
+>  https://github.com/fatemadaher1993-source/Syria_Conflict_Analysis_PowerBI
 
 ### 2. Business Intelligence & Diversified Analytics (Power BI / Excel / Python)
->https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard)
+>https://github.com/fatemadaher1993-source/PowerBI-HR-Analytics-Performance-Dashboard
 
 >https://github.com/fatemadaher1993-source/Excel-Sales-Profit-Dashboard-VBA-Automation
 
